@@ -7,7 +7,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiweiGe1999&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data" />
 </a>
 
-#### About me:
+#### :fire: About me:
 - :mortar_board: Master Student at Upenn, Major in Scientific Computing(Computational Science)
 - 🔭 I’m currently working on Music Recommendation System with Machine Learning
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Apache Spark
