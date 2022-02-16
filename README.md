@@ -17,6 +17,8 @@
 - :open_hands: Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-ShiweiGe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiwei-ge-3b0260203/)
 [![Gmail Badge](https://img.shields.io/badge/-ajie4095@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ajie4095@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-pink?style=flat-square&logo=Weblate&logoColor=white)](https://shiweigee.com)
+
+
 #### ⚡Technologies:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -42,9 +44,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-
 <a href="https://shiweigee.com">
   <img width='100%' src="https://github-readme-stats.vercel.app/api?username=ShiweiGe1999&show_icons=true&theme=radical&count_private=true" />
 </a>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShiweiGe1999.ShiweiGe1999)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShiweiGe1999.ShiweiGe1999)
+
+
 
