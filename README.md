@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Apache Spark
 - :office: CIS 350 (Software Engineering) Teaching Assistant
 - :fireworks: Enthusiastic about the Full-stack Engineering
-- ⚡ Fun fact: I am actually an eboy (League, Valorant, Coding)
+- ⚡ Fun fact: I am actually Game Boy (League, Valorant, GTA)
 - :open_hands: Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-ShiweiGe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiwei-ge-3b0260203/)
 [![Gmail Badge](https://img.shields.io/badge/-ajie4095@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ajie4095@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-pink?style=flat-square&logo=Weblate&logoColor=white)](https://shiweigee.com)
